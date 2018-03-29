@@ -1,3 +1,5 @@
-# Animals
+# Animals update
 
-![Game Animals](display/demo.gif)
+Here is my animal game application.
+
+![Application demo GIF](display/demo.gif)
